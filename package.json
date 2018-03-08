@@ -1,0 +1,32 @@
+{
+	"name": "bubblebabbler",
+	"version": "1.0.0",
+	"description": "Encoder for The Bubble Babble binary data encoding",
+	"main": "bubblebabbler.js",
+	"dependencies": {
+	},
+	"scripts": {
+		"test": "node ./test/bubblebabbler-test.js"
+	},
+	"engines": {
+		"node": ">=4.2.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rinne/node-bubblebabbler.git"
+	},
+	"keywords": [
+		"hash",
+		"encoding"
+	],
+	"author": {
+		"name": "Timo J. Rinne",
+		"email": "tri@iki.fi",
+		"url": "https://github.com/rinne/"
+	},
+	"license": "Unlicense",
+	"bugs": {
+		"url": "https://github.com/rinne/node-bubblebabbler/issues"
+	},
+	"homepage": "https://github.com/rinne/node-bubblebabbler#readme"
+}
