@@ -27,7 +27,7 @@ function bubblebabbler(b) {
               v[Math.floor(h / 6)] +
               'x');
     }
- return r;
+	return r;
 }
 
 module.exports = bubblebabbler;
