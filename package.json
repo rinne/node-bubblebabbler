@@ -1,6 +1,6 @@
 {
 	"name": "bubblebabbler",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Encoder for The Bubble Babble binary data encoding",
 	"main": "bubblebabbler.js",
 	"dependencies": {
