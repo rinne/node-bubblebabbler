@@ -1,6 +1,15 @@
 Changelog
 =========
 
+Unreleased
+----------
+
+### Other
+
+- More tests: Buffer input, a SHA-1 digest against OpenSSH
+  (ssh-keygen -B), and refusal of input that is not a string or a
+  Buffer.
+
 1.0.1
 -----
 
